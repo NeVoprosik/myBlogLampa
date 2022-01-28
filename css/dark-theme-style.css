@@ -251,13 +251,13 @@ ul{
     background-size: cover;
 }
 .Facebook:hover{
-    background-image: url(/images/Facebook-hover.svg);
+    background-image: url(../images/Facebook-hover.svg);
 }
 .Twitter:hover{
-    background-image: url(/images/Twitter-hover.svg);
+    background-image: url(../images/Twitter-hover.svg);
 }
 .Instagramm:hover{
-    background-image: url(/images/Instagramm-hover.svg);
+    background-image: url(../images/Instagramm-hover.svg);
 }
 /* **************************************** */
 .blog-box-right{
