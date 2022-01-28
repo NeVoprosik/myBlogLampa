@@ -250,17 +250,17 @@ ul{
     background-size: cover;
 }
 .Facebook:hover{
-    background-image: url(/images/Facebook-hover.svg);
+    background-image: url(../images/Facebook-hover.svg);
     width: 14px;
     height: 27px;
 }
 .Twitter:hover{
-    background-image: url(/images/Twitter-hover.svg);
+    background-image: url(../images/Twitter-hover.svg);
     width: 13px;
     height: 25px;
 }
 .Instagramm:hover{
-    background-image: url(/images/Instagramm-hover.svg);
+    background-image: url(../images/Instagramm-hover.svg);
     width: 25px;
     height: 25px;
 }
